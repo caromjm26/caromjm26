@@ -10,18 +10,18 @@ Scrum y PSP, mi interes en los Sistema Informaticos comenzó en el Cecytea Rinco
 
 
 Tecnologias:
-Angular
-PHP
-C/C++
-Java
-Python
-FastAPI
-MySQL
-OracleSQL
+- Angular
+- PHP
+- C/C++
+- Java
+- Python
+- FastAPI
+- MySQL
+- OracleSQL
 
 Metodologias
-Scrum
-PSP
+- Scrum
+- PSP
 
 
 
