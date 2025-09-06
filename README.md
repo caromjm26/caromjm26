@@ -1,16 +1,29 @@
-## Hi there 👋
+## Juan Miguel | Ingeniero en Sistemas Computacioneales 👋
 
-<!--
-**caromjm26/caromjm26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Sean Bienvenidos a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+Soy ingeniero en Sistemas Computaciones egresado de la Universidad Autonoma de Aguascalientes, a lo largo de mi trayectoria academica he trabajado con distintas tecnologias entre las que destaca C/C++, Java, Python, Angular, entre otras. Tambien he trabajado con metodologias como 
+Scrum y PSP, mi interes en los Sistema Informaticos comenzó en el Cecytea Rincon de Romos, ya que se me hizo interesante la forma en que trabaja los software para programar, por ultimo quiero agregar que en este perfil se guardan los repositorios de proyectos realizados por mi en colaboración con distintos compañeros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en INFOTEC como parte del Programa de Jovenes Construyendo El Futuro ...
+- 🌱 Estoy aprendiendo a elaborar bitacoras, manuales, docker xDD ...
+
+
+Tecnologias:
+Angular
+PHP
+C/C++
+Java
+Python
+FastAPI
+MySQL
+OracleSQL
+
+Metodologias
+Scrum
+PSP
+
+
+
+
+
